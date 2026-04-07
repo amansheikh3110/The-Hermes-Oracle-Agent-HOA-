@@ -16,7 +16,6 @@ Python CLI style prediction-market research: pull Polymarket data via **Apify**,
 - [Project layout](#project-layout)
 - [Examples](#examples)
 - [Optional: Hermes](#optional-hermes)
-- [Kalshi](#kalshi)
 - [Troubleshooting](#troubleshooting)
 - [Development](#development)
 - [License](#license)
@@ -99,8 +98,6 @@ Environment variables are loaded from the project `.env` (project root). See `.e
 | `APIFY_POLYMARKET_ACTOR` | Actor id for `cwt apify-polymarket` (must match your input JSON). |
 | `CWT_DATA_DIR` | Data root (default `./data`). |
 | `CHROMA_COLLECTION` | Chroma collection name. |
-| `KALSHI_*` | Optional Kalshi credentials (see [Kalshi](#kalshi)). |
-
 ---
 
 ## CLI reference
@@ -247,4 +244,4 @@ ruff check src tests
 
 Generated analysis from scraped data is kept under **`Output/`** (e.g. `final_report.md`, `polymarket_leaderboard_report.txt`) so clones include example deliverables. Reproduce or extend by following the [Data pipeline](#data-pipeline) with your own keys.
 
-**Internship submission write-ups** (Word/PDF, screenshot appendices) are prepared **locally** and are **not** part of this repository.
+**Internship submission write-ups** (Word/PDF, screenshot appendices) are prepared **locally** and are **not** part of this repository.   
