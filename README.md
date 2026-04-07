@@ -1,6 +1,6 @@
 The Hermes Oracle Research Agent (HORA) 
 
-Python CLI style prediction-market research: pull Polymarket data via **Apify**, rank traders into a **digest**, embed market text in **Chroma** for **RAG**, and chat with **OpenRouter** (optionally **Hermes**) to synthesize insights.
+Python CLI style prediction-market research: pull Polymarket data via **Apify**, rank traders into a **digest**, embed market text in **Chroma** for **RAG**, and chat with **OpenRouter** (**Hermes**) to synthesize insights.
 
 ---
 
