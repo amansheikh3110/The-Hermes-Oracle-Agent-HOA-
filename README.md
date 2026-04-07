@@ -18,7 +18,6 @@ Python CLI style prediction-market research: pull Polymarket data via **Apify**,
 - [Optional: Hermes](#optional-hermes)
 - [Troubleshooting](#troubleshooting)
 - [Development](#development)
-- [License](#license)
 
 ---
 
