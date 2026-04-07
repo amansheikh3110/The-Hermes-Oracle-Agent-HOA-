@@ -248,7 +248,3 @@ ruff check src tests
 Generated analysis from scraped data is kept under **`Output/`** (e.g. `final_report.md`, `polymarket_leaderboard_report.txt`) so clones include example deliverables. Reproduce or extend by following the [Data pipeline](#data-pipeline) with your own keys.
 
 **Internship submission write-ups** (Word/PDF, screenshot appendices) are prepared **locally** and are **not** part of this repository.
-
-## License
-
-MIT
