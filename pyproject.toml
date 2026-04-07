@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cwt-prediction-agent"
+version = "0.1.0"
+description = "CrowdWisdomTrading intern task — prediction markets research agent"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+    "httpx>=0.27.0",
+    "openai>=1.0.0",
+    "chromadb>=0.5.0",
+    "apify-client>=1.8.0",
+    "typer>=0.12.0",
+    "structlog>=24.0.0",
+    "tenacity>=8.2.0",
+    "numpy>=1.26.0",
+]
+
+[project.optional-dependencies]
+hermes = [
+    "hermes-agent @ git+https://github.com/NousResearch/hermes-agent.git",
+]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.24.0",
+    "ruff>=0.6.0",
+]
+
+[project.scripts]
+cwt = "cwt_agent.cli:app"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

@@ -1,0 +1,14 @@
+{
+  "description": "Example session for employer submission",
+  "cli_commands": [
+    "cwt verify",
+    "cwt apify-polymarket examples/apify_polymarket_input.json",
+    "cwt build-digest",
+    "cwt rag-ingest examples/sample_event_notes.txt --event demo",
+    "cwt chat \"Which trader looks best for politics-style markets?\""
+  ],
+  "openrouter_models": {
+    "chat": "qwen/qwen3.6-plus:free",
+    "embedding": "nvidia/llama-nemotron-embed-vl-1b-v2:free"
+  }
+}

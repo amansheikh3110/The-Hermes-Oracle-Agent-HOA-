@@ -1,0 +1,147 @@
+================================================================================
+              POLYMARKET COPY-TRADING RESEARCH REPORT
+              Generated: April 7, 2026 | 20:31 UTC
+================================================================================
+
+SECTION 1: TOP 20 LEADERBOARD TRADERS
+--------------------------------------------------------------------------------
+Rank  | Trader Name                  | PnL (USD)      | Volume (USD)     | Consistency
+------|------------------------------|---------------:|-----------------:|-----------:
+  1   | 0x492442EaB586...-1766317541 | $ 5,734,027.37 | $17,626,997.99  |   0.439
+  2   | HorizonSplendidView          | $ 4,016,107.83 | $     0.00      |   0.439
+  3   | reachingthesky               | $ 3,742,635.16 | $     0.00      |   0.439
+  4   | beachboy4                    | $ 3,476,927.57 | $ 8,648,041.51  |   0.439
+  5   | 0x2a2C53bD278c...-1772479215 | $ 2,492,561.53 | $30,997,933.49  |   0.439
+  6   | majorexploiter               | $ 2,416,975.03 | $     0.00      |   0.439
+  7   | Countryside                  | $ 1,745,192.54 | $11,418,532.06  |   0.439
+  8   | sovereign2013                | $ 1,730,732.52 | $21,822,892.04  |   0.439
+  9   | RN1                          | $ 1,683,838.51 | $30,410,736.58  |   0.439
+ 10   | 432614799197                 | $ 1,495,977.46 | $     0.00      |   0.439
+ 11   | lo34567Taipe                 | $ 1,460,313.99 | $     0.00      |   0.439
+ 12   | bcda                         | $ 1,305,066.66 | $ 7,991,227.54  |   0.439
+ 13   | Blessed-Sunshine             | $ 1,202,926.54 | $     0.00      |   0.439
+ 14   | Anointed-Connect             | $ 1,187,417.00 | $    60,670.74  |   0.439
+ 15   | blindStaking                 | $ 1,126,032.38 | $ 4,795,010.87  |   0.439
+ 16   | gatorr                       | $ 1,110,187.38 | $ 2,871,334.99  |   0.439
+ 17   | swisstony                    | $ 1,013,268.76 | $18,683,260.78  |   0.439
+ 18   | SecondWindCapital            | $   951,100.37 | $   445,672.39  |   0.439
+ 19   | Mentallyillgambld            | $   902,310.55 | $ 2,764,295.11  |   0.439
+ 20   | JPMorgan101                  | $   887,474.87 | $     0.00      |   0.439
+
+SECTION 2: AGGREGATE STATISTICS
+--------------------------------------------------------------------------------
+  Total combined PnL:            $42,381,172.03
+  Total combined volume:        $159,536,516.09
+  Average PnL per trader:       $ 2,119,058.60
+  Average volume per trader:    $ 7,976,825.80
+  Median PnL:                   $ 1,613,115.03
+  Consistency score (all):       0.439 (uniform across all 20)
+
+  NOTE: Identical consistency scores (0.439) and trade_rows (1) for all
+        traders suggest this is a single-snapshot leaderboard extract.
+        Deeper analysis requires multi-period trade history.
+
+SECTION 3: TRADERS WITH HIGHEST VOLUME (Capital Deployment Leaders)
+--------------------------------------------------------------------------------
+  Rank 5  | 0x2a2C53bD278c...  | Volume: $30,997,933.49 | PnL: $2,492,561.53
+  Rank 9  | RN1                | Volume: $30,410,736.58 | PnL: $1,683,838.51
+  Rank 8  | sovereign2013      | Volume: $21,822,892.04 | PnL: $1,730,732.52
+  Rank 17 | swisstony           | Volume: $18,683,260.78 | PnL: $1,013,268.76
+  Rank 1  | 0x492442EaB586...  | Volume: $17,626,997.99 | PnL: $5,734,027.37
+  Rank 7  | Countryside         | Volume: $11,418,532.06 | PnL: $1,745,192.54
+  Rank 4  | beachboy4           | Volume: $ 8,648,041.51 | PnL: $3,476,927.57
+  Rank 12 | bcda                | Volume: $ 7,991,227.54 | PnL: $1,305,066.66
+  Rank 15 | blindStaking        | Volume: $ 4,795,010.87 | PnL: $1,126,032.38
+  Rank 16 | gatorr              | Volume: $ 2,871,334.99 | PnL: $1,110,187.38
+
+SECTION 4: TOP PnL-TO-VOLUME RATIO (Capital Efficiency Leaders)
+--------------------------------------------------------------------------------
+  Best efficiency traders (high PnL relative to capital deployed):
+
+  Rank 3  | reachingthesky     | PnL: $3,742,635.16 | Volume: $0.00
+  Rank 2  | HorizonSplendidView| PnL: $4,016,107.83 | Volume: $0.00
+  Rank 4  | beachboy4          | PnL Ratio: 40.2%   | $3.48M PnL / $8.65M Vol
+  Rank 7  | Countryside        | PnL Ratio: 15.3%   | $1.75M PnL / $11.4M Vol
+  Rank 1  | 0x492442EaB586...  | PnL Ratio: 32.5%   | $5.73M PnL / $17.6M Vol
+
+  NOTE: Traders with $0 volume but high PnL likely earned PnL from
+        resolved positions carried over from prior periods, or from
+        off-book/outcome events. Flag for manual review.
+
+SECTION 5: FULL WALLET ADDRESSES (For On-Chain Tracking)
+--------------------------------------------------------------------------------
+  1.  0x492442eab586f242b53bda933fd5de859c8a3782
+  2.  0x02227b8f5a9636e895607edd3185ed6ee5598ff7
+  3.  0xefbc5fec8d7b0acdc8911bdd9a98d6964308f9a2
+  4.  0xc2e7800b5af46e6093872b177b7a5e7f0563be51
+  5.  0x2a2c53bd278c04da9962fcf96490e17f3dfb9bc1
+  6.  0x019782cab5d844f02bafb71f512758be78579f3c
+  7.  0xbddf61af533ff524d27154e589d2d7a81510c684
+  8.  0xee613b3fc183ee44f9da9c05f53e2da107e3debf
+  9.  0x2005d16a84ceefa912d4e380cd32e7ff827875ea
+  10. 0xdc876e6873772d38716fda7f2452a78d426d7ab6
+  11. 0xf195721ad850377c96cd634457c70cd9e8308057
+  12. 0xb45a797faa52b0fd8adc56d30382022b7b12192c
+  13. 0x59a0744db1f39ff3afccd175f80e6e8dfc239a09
+  14. 0x8f037a2e4fd49d11267f4ab874ab7ba745ac64d6
+  15. 0x50b1db131a24a9d9450bbd0372a95d32ea88f076
+  16. 0x93abbc022ce98d6f45d4444b594791cc4b7a9723
+  17. 0x204f72f35326db932158cba6adff0b9a1da95e14
+  18. 0x8c80d213c0cbad777d06ee3f58f6ca4bc03102c3
+  19. 0x2b3ff45c91540e46fae1e0c72f61f4b049453446
+  20. 0xb6d6e99d3bfe055874a04279f009fd57be17 (truncated in source)
+
+SECTION 6: ACTIVE NBA MARKETS (RAG Context)
+--------------------------------------------------------------------------------
+  Event: 2026 NBA Champion
+  URL: https://polymarket.com/event/2026-nba-champion
+
+  Sample Markets:
+    - Will the Dallas Mavericks win the 2026 NBA Finals?
+    - Will the Detroit Pistons win the 2026 NBA Finals?
+
+  Event: NBA Western Conference Champion
+  URL: https://polymarket.com/event/nba-western-conference-champion-933
+  Deadline: June 30, 2026 (resolves to "Other" if not announced)
+
+  Sample Markets:
+    - Will the Los Angeles Lakers win the NBA Western Conference Finals?
+    - Will the New Orleans Pelicans win the NBA Western Conference Finals?
+    - Will the Dallas Mavericks win the NBA Western Conference Finals?
+    - Will the San Antonio Spurs win the NBA Western Conference Finals?
+    - Will the Los Angeles Clippers win the NBA Western Conference Finals?
+
+SECTION 7: DATA LIMITATIONS & NEXT STEPS
+--------------------------------------------------------------------------------
+  LIMITATIONS:
+    - All traders show identical consistency score (0.439) and trade_rows (1)
+    - Niche analysis is empty — no per-market trade data available
+    - No per-trader market event text — cannot identify strategy/niche focus
+    - Volume = $0 for 9 of 20 traders — likely carryover PnL from prior periods
+    - Only a single-period snapshot; no multi-period trend data
+
+  RECOMMENDED NEXT STEPS:
+    1. Run market-level scraper (dadhalfdev/polymarket-scraper) to get
+       individual trade rows with market_question, event_title, and
+       timestamp data per wallet
+    2. Merge market text with leaderboard aggregates to compute niche
+       scores (NBA, politics, crypto, etc.)
+    3. Pull multi-period snapshots to track PnL trajectory and detect
+       declining vs. improving traders
+    4. On-chain analysis: inspect wallet tx histories for bet sizing,
+       hold duration, and position count
+    5. Filter out traders with $0 volume to focus on active operators
+
+================================================================================
+                           END OF REPORT
+================================================================================
+
+
+
+
+
+
+
+
+
+

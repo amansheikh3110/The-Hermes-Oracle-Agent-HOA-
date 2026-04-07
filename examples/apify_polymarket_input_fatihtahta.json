@@ -1,0 +1,23 @@
+{
+  "startUrls": [
+    "https://polymarket.com/"
+  ],
+  "queries": [
+    "Polymarket",
+    "NBA",
+    "Presidential Election",
+    "Crypto",
+    "IPL",
+    "Middle-East",
+    "politics",
+    "Sports"
+  ],
+  "status": "active",
+  "sortBy": "volume_24hr",
+  "frequency": "all",
+  "limit": 400,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": ["RESIDENTIAL"]
+  }
+}

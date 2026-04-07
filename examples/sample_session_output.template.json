@@ -1,0 +1,7 @@
+{
+  "_fill_after_runs": true,
+  "digest_path": "data/traders_digest.json",
+  "apify_saved_path": "data/raw/apify_polymarket_last.json",
+  "ranked_trader_count": 0,
+  "chroma_collection": "cwt_events"
+}

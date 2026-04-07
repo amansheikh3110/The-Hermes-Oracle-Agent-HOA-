@@ -1,0 +1,3 @@
+Sample event text for RAG ingest (replace with real research notes or Apify output).
+
+Event narrative placeholder for embedding and chat retrieval tests.
