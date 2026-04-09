@@ -1,0 +1,172 @@
+
+Polymarket Scraper | $20 / mo | Fast & Reliable avatar
+Polymarket Scraper | $20 / mo | Fast & Reliable
+$19.99/month + usage
+fatihtahta/polymarket-scraper-mo
+ 
+
+Get live prediction market data from Kalshi.com with tickers, categories, prices, and volume metrics. Fast, reliable, and structured for analysis. Ideal for traders, researchers, and data teams.
+
+Form:
+Get detailed product listing informations from Polymarket search results, categories or individual market pages.
+
+
+Scrape by URL 🎯
+Enter any search, category, or individual market URLs to scrape
+https://polymarket.com/?_q=new+york
+
+Add
+Bulk edit
+Remove empty fields
+Scrape by Query 🎯
+Enter Polymarket Search queries to scrape (eg. New York)
+Add
+Bulk edit
+Remove empty fields
+Market status 🚦
+Status
+Active
+
+Sorting ⚖️
+Sort by
+📈 24 Hour Volume
+
+Frequency ⏱️
+Frequency
+All
+
+Max Limit 💯
+Maximum listings to collect
+50000
+
+
+Connection settings ⚙️
+Proxy configuration
+Reset to defaults
+
+Datacenter
+
+
+Residential
+
+
+Special
+
+
+Own proxies
+
+
+No proxy
+
+Fastest and most affordable way to scrape data. This type of proxy has a higher chance of being blocked by anti-scraping tools. Learn more
+
+Proxy country
+Anywhere (recommended)
+
+Need more proxies?
+
+Upgrade now
+
+Run options
+MAXIMUM COST PER RUN
+
+Unlimited
+
+BUILD
+
+latest
+
+TIMEOUT
+
+3,600s
+
+MEMORY
+
+256 MB
+
+Actor running slowly or crashing? Try increasing memory.
+
+Build
+latest
+
+Timeout
+3600
+seconds
+
+
+No timeout
+
+
+Memory
+256 MB
+
+Maximum cost per run
+(optional)
+USD
+No maximum limit
+
+
+Start
+Save
+Restore example input
+
+Note that the above settings only apply to Actor runs started from Apify Console. Learn how to provide input when starting the Actor via the API.
+
+JSON:
+
+{
+    "proxyConfiguration": {
+        "useApifyProxy": true,
+        "apifyProxyGroups": []
+    },
+    "startUrls": [
+        "https://polymarket.com/?_q=new+york"
+    ]
+}
+
+Run options
+MAXIMUM COST PER RUN
+
+Unlimited
+
+BUILD
+
+latest
+
+TIMEOUT
+
+3,600s
+
+MEMORY
+
+256 MB
+
+Actor running slowly or crashing? Try increasing memory.
+
+Build
+latest
+
+Timeout
+3600
+seconds
+
+
+No timeout
+
+
+Memory
+256 MB
+
+Maximum cost per run
+(optional)
+USD
+No maximum limit
+
+
+Start
+Save
+Cancel changes
+
+Note that the above settings only apply to Actor runs started from Apify Console. Learn how to provide input when starting the Actor via the API.
+
+
