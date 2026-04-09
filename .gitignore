@@ -39,8 +39,10 @@ trajectory_samples.jsonl
 
 # Internship submission packaging (private write-up + screenshots — not part of public clone)
 SUBMISSION_DOCUMENT.md
-CWT_Submission_Report.docx
+CWT_Submission_Report.md
+CWT_Submission_Report.docxdocx
 docs/submission/
+docs/outputs/
 
 # Duplicate report copies at repo root (canonical reports live under Output/)
 /final_report.md
